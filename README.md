@@ -2,14 +2,6 @@
 
 A curated awesome list with multiple useful resources for developers (and other curious links too)
 
-## Languages
-
-This list is available in next different languages:
-
-- [English](#categories)
-- [Spanish](/Spanish-links.md)
-
-
 ## Categories
 
 - [Ambient](#ambient)
