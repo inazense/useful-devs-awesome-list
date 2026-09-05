@@ -258,6 +258,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 ## Resumes
 
 - __[Novo Resume](https://novoresume.com/)__ The professional resume builder by excellence
+- __[ResumeAI](https://withresumeai.com/)__ AI resume builder with free ATS checker and open State of ATS 2026 (738/704, Workday 37.9%)
 
 ## Search engines
 
