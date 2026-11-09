@@ -12,6 +12,7 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 | Categoría | Contenido | Acceso |
 | :--- | :--- | :---: |
 | [**Coding**](categories/coding.md) | [APIs](categories/coding.md#api), [CSS](categories/coding.md#css), [Bases de datos](categories/coding.md#database), [Git](categories/coding.md#git), [JavaScript](categories/coding.md#javascript), [JSON](categories/coding.md#json), [Python](categories/coding.md#python), [Estilo](categories/coding.md#style) y [Web](categories/coding.md#web) | [Abrir categoría →](categories/coding.md) |
+| [**AI**](categories/ai.md) | [Agentes](categories/ai.md#agents) y [asistentes de programación](categories/ai.md#coding-assistant) basados en IA | [Abrir categoría →](categories/ai.md) |
 | [**Data**](categories/data.md) | Generadores de datos mock (JSON, SQL, CSV), DNI/NIE/CIF y perfiles de prueba | [Abrir categoría →](categories/data.md) |
 | [**Dates**](categories/dates.md) | Conversores de marcas de tiempo Epoch Unix a fechas legibles | [Abrir categoría →](categories/dates.md) |
 | [**IDE**](categories/ide.md) | Editores de código colaborativos en tiempo real con videollamada | [Abrir categoría →](categories/ide.md) |
@@ -65,6 +66,7 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 
 ## 🔤 Índice alfabético (A - Z)
 
+- [AI](categories/ai.md) ([Agents](categories/ai.md#agents) • [Coding assistant](categories/ai.md#coding-assistant))
 - [Ambient](categories/ambient.md)
 - [Audio](categories/audio.md)
 - [Bits and bobs](categories/bits-and-bobs.md)
