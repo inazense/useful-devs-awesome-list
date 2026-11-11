@@ -2,7 +2,7 @@
 
 Una lista curada de recursos web, herramientas útiles para el día a día y enlaces curiosos para desarrolladores, diseñadores y personas curiosas.
 
-El repositorio está organizado en ficheros individuales por categoría. Haz clic en cualquiera de las secciones para explorar sus herramientas, consultar la descripción y acceder directamente a cada enlace en una nueva pestaña.
+El repositorio está organizado en ficheros individuales por categoría. Haz clic en cualquiera de las secciones para explorar sus herramientas, consultar la descripción y acceder directamente a cada recurso.
 
 ---
 
@@ -11,8 +11,9 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 ### 💻 Desarrollo & Programación
 | Categoría | Contenido | Acceso |
 | :--- | :--- | :---: |
-| [**Coding**](categories/coding.md) | [APIs](categories/coding.md#api), [CSS](categories/coding.md#css), [Bases de datos](categories/coding.md#database), [Git](categories/coding.md#git), [JavaScript](categories/coding.md#javascript), [JSON](categories/coding.md#json), [Python](categories/coding.md#python), [Estilo](categories/coding.md#style) y [Web](categories/coding.md#web) | [Abrir categoría →](categories/coding.md) |
+| [**Coding**](categories/coding.md) | [APIs](categories/coding.md#api), [CSS](categories/coding.md#css), [Bases de datos](categories/coding.md#database), [Git](categories/coding.md#git), [JavaScript](categories/coding.md#javascript) y más | [Abrir categoría →](categories/coding.md) |
 | [**AI**](categories/ai.md) | [Agentes](categories/ai.md#agents) y [asistentes de programación](categories/ai.md#coding-assistant) basados en IA | [Abrir categoría →](categories/ai.md) |
+| [**Video Games**](categories/video-games.md) | Assets open source para prototipos y proyectos de videojuegos | [Abrir categoría →](categories/video-games.md) |
 | [**Data**](categories/data.md) | Generadores de datos mock (JSON, SQL, CSV), DNI/NIE/CIF y perfiles de prueba | [Abrir categoría →](categories/data.md) |
 | [**Dates**](categories/dates.md) | Conversores de marcas de tiempo Epoch Unix a fechas legibles | [Abrir categoría →](categories/dates.md) |
 | [**IDE**](categories/ide.md) | Editores de código colaborativos en tiempo real con videollamada | [Abrir categoría →](categories/ide.md) |
@@ -25,8 +26,8 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 | [**Audio**](categories/audio.md) | Edición rápida de pistas y formas de onda en el navegador sin software | [Abrir categoría →](categories/audio.md) |
 | [**Colours**](categories/colours.md) | Generadores de paletas cromáticas armónicas y gradientes CSS | [Abrir categoría →](categories/colours.md) |
 | [**Icons**](categories/icons.md) | Bibliotecas de iconos vectoriales SVG/PNG, fuentes web y creadores de logos | [Abrir categoría →](categories/icons.md) |
-| [**Image**](categories/image.md) | [Bancos de fotos](categories/image.md#bancos), [limpiadores IA](categories/image.md#limpiadores), [compresores](categories/image.md#compresores), [conversores Base64](categories/image.md#conversores), [editores online](categories/image.md#editores) y [redimensionadores](categories/image.md#redimensionadores) | [Abrir categoría →](categories/image.md) |
-| [**Mockups**](categories/mockups.md) | [Prototipos de apps](categories/mockups.md#mockups-de-aplicaciones), [maquetas PSD de dispositivos](categories/mockups.md#mockups-de-imágenes-y-dispositivos) y [servidores REST mock](categories/mockups.md#servidores-mock) | [Abrir categoría →](categories/mockups.md) |
+| [**Image**](categories/image.md) | [Bancos de fotos](categories/image.md#bancos), [limpiadores IA](categories/image.md#limpiadores), [compresores](categories/image.md#compresores), [conversores](categories/image.md#conversores) y más | [Abrir categoría →](categories/image.md) |
+| [**Mockups**](categories/mockups.md) | [Prototipos de apps](categories/mockups.md#mockups-de-aplicaciones), [maquetas PSD de dispositivos](categories/mockups.md#mockups-de-imágenes-y-dispositivos) y [servidores](categories/mockups.md#mockups-de-servidores) | [Abrir categoría →](categories/mockups.md) |
 
 ### 🛠️ Productividad & Herramientas Web
 | Categoría | Contenido | Acceso |
@@ -71,7 +72,7 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 - [Audio](categories/audio.md)
 - [Bits and bobs](categories/bits-and-bobs.md)
 - [Books](categories/books.md)
-- [Coding](categories/coding.md) ([API](categories/coding.md#api) • [CSS](categories/coding.md#css) • [Database](categories/coding.md#database) • [Git](categories/coding.md#git) • [JavaScript](categories/coding.md#javascript) • [JSON](categories/coding.md#json) • [Python](categories/coding.md#python) • [Style](categories/coding.md#style) • [Web](categories/coding.md#web))
+- [Coding](categories/coding.md) ([API](categories/coding.md#api) • [CSS](categories/coding.md#css) • [Database](categories/coding.md#database) • [Git](categories/coding.md#git) • [JavaScript](categories/coding.md#javascript))
 - [Colours](categories/colours.md)
 - [Data](categories/data.md)
 - [Dates](categories/dates.md)
@@ -80,12 +81,12 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 - [Fax](categories/fax.md)
 - [IDE](categories/ide.md)
 - [Icons](categories/icons.md)
-- [Image](categories/image.md) ([Bancos](categories/image.md#bancos) • [Limpiadores](categories/image.md#limpiadores) • [Compresores](categories/image.md#compresores) • [Conversores](categories/image.md#conversores) • [Editores](categories/image.md#editores) • [Generación](categories/image.md#generación) • [Redimensionadores](categories/image.md#redimensionadores))
+- [Image](categories/image.md) ([Bancos](categories/image.md#bancos) • [Limpiadores](categories/image.md#limpiadores) • [Compresores](categories/image.md#compresores) • [Conversores](categories/image.md#conversores))
 - [Languages](categories/languages.md)
 - [Life](categories/life.md)
 - [Manuals](categories/manuals.md)
 - [Maps](categories/maps.md)
-- [Mockups](categories/mockups.md) ([Apps](categories/mockups.md#mockups-de-aplicaciones) • [Imágenes](categories/mockups.md#mockups-de-imágenes-y-dispositivos) • [Servidores](categories/mockups.md#servidores-mock))
+- [Mockups](categories/mockups.md) ([Apps](categories/mockups.md#mockups-de-aplicaciones) • [Imágenes](categories/mockups.md#mockups-de-imágenes-y-dispositivos) • [Servidores](categories/mockups.md#mockups-de-servidores))
 - [Office](categories/office.md)
 - [PDF](categories/pdf.md)
 - [Project Management](categories/project-management.md)
@@ -99,6 +100,7 @@ El repositorio está organizado en ficheros individuales por categoría. Haz cli
 - [Stats](categories/stats.md)
 - [Texts](categories/texts.md)
 - [Tor](categories/tor.md)
+- [Video Games](categories/video-games.md)
 - [Virus](categories/virus.md)
 
 ---
