@@ -19,6 +19,7 @@ Agentes, asistentes de programación y otras herramientas basadas en IA para des
 | Recurso | Enlace | Descripción | Visitar |
 | :--- | :--- | :--- | :---: |
 | **Codebuff** | `https://github.com/CodebuffAI/codebuff` | Asistente de programación con IA de código abierto que se ejecuta en la terminal y edita tu código a partir de instrucciones en lenguaje natural. | <a href="https://github.com/CodebuffAI/codebuff" target="_blank" rel="noopener noreferrer"><kbd>&nbsp;Visitar sitio ↗&nbsp;</kbd></a> |
+| **No Stairs Please MCP** | `https://nostairsplease.com/mcp` | Servidor MCP remoto para buscar salas de música en vivo, contactos de booking y accesibilidad en los 50 estados de EE. UU. | <a href="https://nostairsplease.com/mcp" target="_blank" rel="noopener noreferrer"><kbd>&nbsp;Visitar sitio ↗&nbsp;</kbd></a> |
 
 ---
 
