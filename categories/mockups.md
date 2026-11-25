@@ -13,6 +13,7 @@ Plantillas de diseño fotorrealistas para presentaciones de producto y simulador
 | Recurso | Enlace | Descripción | Visitar |
 | :--- | :--- | :--- | :---: |
 | **Marvel App** | `https://marvelapp.com/` | Plataforma de prototipado rápido para diseñar, probar con usuarios e interactuar con pantallas de aplicaciones móviles y web. | <a href="https://marvelapp.com/" target="_blank" rel="noopener noreferrer"><kbd>&nbsp;Visitar sitio ↗&nbsp;</kbd></a> |
+| **Kite** | `https://kite.new/` | Herramienta de diseño de interfaces que comparten tu equipo y tus agentes de IA (Claude, ChatGPT, Cursor): los agentes dibujan capas reales y editables vía MCP y cualquier frame se copia como HTML, React o Tailwind. Plan gratuito. | <a href="https://kite.new/" target="_blank" rel="noopener noreferrer"><kbd>&nbsp;Visitar sitio ↗&nbsp;</kbd></a> |
 
 ## Mockups de imágenes y dispositivos
 
